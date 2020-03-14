@@ -1,0 +1,11 @@
+สำหรับการสร้าง React 
+npm i -g create-react-app
+
+สำหรับ สร้างโปรเจค
+create-react-app my-car
+
+รันไฟล์ 
+npm start
+
+สำหรับการสร้าง router
+npm install react-router-dom
