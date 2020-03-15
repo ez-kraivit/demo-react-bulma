@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ตัวงานนี้ยังไม่เสร็จนะครับ เป็นงานฝึกทบทวนความรู้เก่า ๆ เวลาทำงานลูกค้าจะได้ไม่ติดปัญหาครับ มีตัว Demo 4 ตัวเป็นงานคล้าย ๆ กันทั้ง Bootstrap bulma material ui
+
 ## Available Scripts
 
 In the project directory, you can run:
